@@ -1,0 +1,6 @@
+[general]
+firstlevel=001level
+name=cellular automaton
+start=001level
+[levels]
+levelid=1
