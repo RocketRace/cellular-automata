@@ -5,6 +5,10 @@
 
 ---
 
+[Demonstration of the machine](https://youtu.be/RPiZM68--xo)
+
+---
+
 This repository contains a Baba Is You level pack with one level.
 
 The level, when played, simulates cellular automaton rule 110 by default, calculating the next state of the machine each in-game turn. 
