@@ -8,5 +8,5 @@
 This repository contains a Baba Is You level pack with one level.
 
 The level, when played, simulates cellular automaton rule 110 by default, calculating the next state of the machine each in-game turn. 
-The parameters of the cellular automaton can be adjusted in the level. 
-Use of a level editor is recommended for this.
+
+The initial state of the machine can be adjusted by pressing space whilst Baba is on top of a zero or one. The parameters of the cellular automaton can also be adjusted similarly.
